@@ -4,7 +4,7 @@ The purpose of the election audit is to have an automated election calculation s
 # Election _Audit Results
 ## How many votes were cast in this congressional election?    
 
-![pyPoll_challenge](https://github.com/onehatt29/pyPoll_challenge/blob/main/total ballots.PNG)
+![pyPoll_challenge](https://github.com/onehatt29/pyPoll_challenge/blob/main/images/total ballots.PNG)
 
 
 # This is a breakdown of the number of votes,percentage of votes for each county in the precinct. 
