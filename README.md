@@ -3,14 +3,18 @@
 The purpose of the election audit is to have an automated election calculation system you that is free frpm human error.
 # Election _Audit Results
 ## How many votes were cast in this congressional election?    
+
 ![pyPoll_challenge](https://github.com/onehatt29/pyPoll_challenge/blob/main/total ballots.PNG)
 
 
 # This is a breakdown of the number of votes,percentage of votes for each county in the precinct. 
-![pyPoll_challenge] (https://github.com/onehatt29/pyPoll_challenge/blob/main/  candidate votes.PNG)
+
+![pyPoll challenge] (https://github.com/onehatt29/pyPoll_challenge/blob/main/  candidate votes.PNG)
 
 # The total number of vote cast was 369,711
-![pyPoll_challenge] (https://github.com/onehatt29/pyPoll_challenge/blob/main/ total candidate votes.PNG)
+
+![pyPoll challenge] (https://github.com/onehatt29/pyPoll_challenge/blob/main/ total candidate votes.PNG)
+
 # Runners vote breakdown
 ## Charles Casper Stockham 23.0% (85,213)
 ## Diana Degette 73.8% (272,892)
