@@ -1,4 +1,4 @@
-# pyPoll_challenge.py
+# pyPoll_challenge
 # The purpose of the election audit
 The purpose of the election audit is to have an automated election calculation system you that is free frpm human error.
 # Election _Audit Results
