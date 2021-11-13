@@ -8,9 +8,9 @@ The purpose of the election audit is to have an automated election calculation s
 # This is a breakdown of the number of votes,percentage of votes for each county in the precinct. ![pyPoll_challenge](https://github.com/onehatt29/pyPoll_challenge/blob/main/total candidate votes.PNG)
 
 # The total number of vote cast was 369,711
-## Runners vote breakdown
-. Charles Casper Stockham 23.0% (85,213)
-. Diana Degette 73.8% (272,892)
+# Runners vote breakdown
+##. Charles Casper Stockham 23.0% (85,213)
+##. Diana Degette 73.8% (272,892)
 ## The winner of the election was Diana Degette with 272,892 votes. with a percentage of 73.8% of the votes.
 
 # To the Election Commission 
