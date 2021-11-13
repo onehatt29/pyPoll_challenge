@@ -3,4 +3,4 @@
 The purpose of the election audit is to have an automated election calculation system you that is free frpm human error.
 # Election _Audit Results
 ## How many votes were cast in this congressional election?
-. ![pyPoll_challenge](https://github.com.onehatt29/pyPoll_challenge.py/blob/main/total_ballots.png)
+. ![pyPoll_challenge](https://github.com/onehatt29/pyPoll_challenge.py/blob/main/total_ballots.png)
