@@ -9,7 +9,7 @@ The purpose of the election audit is to have an automated election calculation s
 
 # This is a breakdown of the number of votes,percentage of votes for each county in the precinct. 
 
-![pyPoll_challenge](candidate votes.PNG)
+![pyPoll_challenge](pyPoll_challenge/candidate votes.PNG)
 
 # The total number of vote cast was 369,711
 
