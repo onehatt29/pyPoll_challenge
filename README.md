@@ -9,8 +9,8 @@ The purpose of the election audit is to have an automated election calculation s
 
 # The total number of vote cast was 369,711
 # Runners vote breakdown
-##. Charles Casper Stockham 23.0% (85,213)
-##. Diana Degette 73.8% (272,892)
+## Charles Casper Stockham 23.0% (85,213)
+## Diana Degette 73.8% (272,892)
 ## The winner of the election was Diana Degette with 272,892 votes. with a percentage of 73.8% of the votes.
 
 # To the Election Commission 
