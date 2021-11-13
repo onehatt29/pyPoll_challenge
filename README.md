@@ -6,5 +6,6 @@ The purpose of the election audit is to have an automated election calculation s
 
 ![pyPoll_challenge](https://github.com/onehatt29/pyPoll_challenge/blob/main/total ballots.PNG)
 
+
 ## This is a breakdown of the number of votes,percentage of votes for each county in the precinct. 
 ![pyPoll_challenge](https://github.com/onehatt29/pyPoll_challenge/blob/main/vote breakdown.PNG)
