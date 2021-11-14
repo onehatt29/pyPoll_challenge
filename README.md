@@ -8,7 +8,9 @@ The purpose of the election audit is to have an automated election calculation s
 
 
 # This is a breakdown of the number of votes,percentage of votes for each county in the precinct. 
-  ![total ballots](images/total ballots.PNG)
+  
+  
+  ![total ballots] (images/total ballots.PNG)
 
 # The total number of vote cast was 369,711
 
