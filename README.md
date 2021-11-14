@@ -14,7 +14,7 @@ The purpose of the election audit is to have an automated election calculation s
 
 # The total number of vote cast was 369,711
 
-![pyPoll challenge] (https://github.com/onehatt29/pyPoll_challenge/blob/main/ total candidate votes.PNG)
+![pyPoll challenge] (https://github.com/onehatt29/pyPoll_challenge/blob/5849e0a8ee02f7ba86507575473a072c89f3bd44/images/total%20candidate%20votes.PNG)
 
 # Runners vote breakdown
 ## Charles Casper Stockham 23.0% (85,213)
